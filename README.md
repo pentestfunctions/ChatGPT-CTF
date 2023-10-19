@@ -14,6 +14,8 @@ This script is a proof of concept that uses OpenAI's ChatGPT to perform penetrat
 - **Ethical Use**: This script should only be used for ethical purposes. Ensure that you have proper permission to perform any tests.
 - **Limitation**: The current implementation only allows ChatGPT to suggest and run one function at a time.
 
+![Not Perfect GIF](https://github.com/pentestfunctions/ChatGPT-CTF/blob/main/images/notperfect.gif)
+
 ## Functionality Overview
 - Enumerate IPs
 - Check SSL Vulnerability (weighted to 95, 2.5, 2.5 FOR none, heartbleed, poodle)
